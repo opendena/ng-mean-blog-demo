@@ -15,6 +15,6 @@
     "articles.routes.js"
   ],
   "files": [
-    "public/"
+    "public/*"
   ]
 }
