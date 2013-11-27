@@ -1,4 +1,3 @@
-
 # ng-mean-articles
 
   AngularJS blog management UI
@@ -7,7 +6,7 @@
 
   Install with [component(1)](http://component.io):
 
-    $ component install dena/ng-mean-blog-demo
+    $ component install opendena/ng-mean-blog-demo
 
 ## API
 
