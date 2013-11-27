@@ -1,0 +1,20 @@
+{
+  "name": "ng-mean-blog-demo",
+  "repo": "opendena/ng-mean-blog-demo",
+  "description": "AngularJS blog management UI",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js",
+    "articles.controller.js",
+    "articles.services.js",
+    "articles.routes.js"
+  ],
+  "files": [
+    "public/"
+  ]
+}
