@@ -15,6 +15,9 @@
     "articles.routes.js"
   ],
   "files": [
-    "public/*"
+    "public/views/articles/create.html"
+    ,"public/views/articles/edit.html"
+    ,"public/views/articles/list.html"    
+    ,"public/views/articles/view.html"    
   ]
 }
